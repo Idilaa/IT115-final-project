@@ -7,7 +7,8 @@ Before contributing, please take a moment to read and understand the following g
 Code of Conduct
 
 Please note that this project is governed by our Code of Conduct. 
-By participating, you are expected to uphold this code. Please report unacceptable behavior to [project contact email].
+By participating, you are expected to uphold this code. 
+Please report unacceptable behavior to [project contact email].
 
 
 How Can You Contribute
@@ -21,5 +22,4 @@ Provide as much detail as possible, including use cases and examples.
 3: Pull Requests: If you're a developer and would like to contribute code, you can submit a pull request (PR). 
 Before submitting a PR, please make sure to discuss your changes with the maintainers.
 
-Getting Started
 
