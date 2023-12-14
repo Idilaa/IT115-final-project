@@ -10,10 +10,10 @@ on:
   push:
     branches: [ "main" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "main" 
 jobs:
   run-lint:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-lates
     steps:name: Checkout code
         uses: actions/checkout@v3
         with:
